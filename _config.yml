@@ -2,6 +2,8 @@ title:            Balzac
 tagline:          A beautiful theme.
 description:      Describe your website.
 canonical: http://roachhd.github.io/Balzac-forJekyll
+baseurl: /Balzac-for-Jekyll
+url: //roachhd.github.io/Balzac-for-Jekyll
 
 # Owner/author information
 owner:
